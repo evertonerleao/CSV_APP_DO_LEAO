@@ -6819,9 +6819,9 @@
 1006817;101704;20 de maio de 1947.;1
 1006818;101704;4 de março de 1948.;0
 1006819;101704;16 de julho de 1994.;0
-1006820;101705;Javanese Prince, um navio cargueiro inglês.;0
+1006820;101705;Javanese Prince, um navio cargueiro inglês.;1
 1006821;101705;Arabella, um navio de passageiros americano.;0
-1006822;101705;Blue Star, um cargueiro de bandeira brasileira.;1
+1006822;101705;Blue Star, um cargueiro de bandeira brasileira.;0
 1006823;101705;Royal Ambassador, um transatlântico de luxo.;0
 1006824;101706;A falta de alimentação adequada para passageiros estrangeiros.;1
 1006825;101706;Dias de tempestade que afetaram o sossego do navio e dos estômagos do casal.;0
@@ -6908,11 +6908,11 @@
 1006906;101726;Paulo Spurgeon de Paula.;0
 1006907;101726;David Gomes.;0
 1006908;101727;Estudando no Colégio Batista de Nova York.;0
-1006909;101727;Falando com marinheiros americanos e ingleses nos navios em Vitória.;0
+1006909;101727;Falando com marinheiros americanos e ingleses nos navios em Vitória.;1
 1006910;101727;Através de aulas particulares com Miss Minnie Landrum.;0
-1006911;101727;Durante uma viagem missionária aos Estados Unidos com o Pr. David Gomes.;1
-1006912;101728;Igreja Batista de Itacuruçá.;0
-1006913;101728;Primeira Igreja Batista de Vitória.;1
+1006911;101727;Durante uma viagem missionária aos Estados Unidos com o Pr. David Gomes.;0
+1006912;101728;Igreja Batista de Itacuruçá.;1
+1006913;101728;Primeira Igreja Batista de Vitória.;0
 1006914;101728;Igreja Batista da Tijuca.;0
 1006915;101728;Igreja Batista Central de São Paulo.;0
 1006916;101729;7 de agosto de 1948.;1
@@ -6984,12 +6984,12 @@
 1006982;101745;5.000 exemplares.;0
 1006983;101745;10.000 exemplares.;1
 1006984;101746;Arabella.;0
-1006985;101746;Carryall.;1
-1006986;101746;Baratinha.;0
+1006985;101746;Carryall.;0
+1006986;101746;Baratinha.;1
 1006987;101746;Chevrolet.;0
-1006988;101747;18 acampantes.;0
+1006988;101747;18 acampantes.;1
 1006989;101747;35 acampantes.;0
-1006990;101747;50 acampantes.;1
+1006990;101747;50 acampantes.;0
 1006991;101747;12 acampantes.;0
 1006992;101748;Revista Ambassador Life.;1
 1006993;101748;Jornal do Embaixador.;0
@@ -7019,8 +7019,8 @@
 1007017;101754;A primeira edição impressa do Guia.;0
 1007018;101754;Um churrasco de um boi inteiro.;0
 1007019;101754;O batismo de John Hurley Hatton.;1
-1007020;101755;Edson Machado.;0
-1007021;101755;Hélcio Lessa.;1
+1007020;101755;Edson Machado.;1
+1007021;101755;Hélcio Lessa.;0
 1007022;101755;Tiago Lima.;0
 1007023;101755;Paulo Cabral.;0
 1007024;101756;Rio de Janeiro (Estado do Rio).;0
@@ -7035,9 +7035,9 @@
 1007033;101758;Professor Moyses Silveira.;0
 1007034;101758;Pr. Pedro Hernandez.;1
 1007035;101758;Dr. T. B. Stover.;0
-1007036;101759;Morava no Rio de Janeiro e trabalhava na JUERP.;1
+1007036;101759;Morava no Rio de Janeiro e trabalhava na JUERP.;0
 1007037;101759;Morava em Abilene e visitava parentes no Texas.;0
-1007038;101759;Morava em Sumaré (SP) e estudava na Escola de Línguas em Campinas.;0
+1007038;101759;Morava em Sumaré (SP) e estudava na Escola de Línguas em Campinas.;1
 1007039;101759;Morava em Arkansas e aguardava a nomeação da Junta de Richmond.;0
 1007040;101760;A falta de combustível para os carros americanos.;0
 1007041;101760;O excesso de pedágios na estrada Amaral Peixoto.;0
@@ -7053,8 +7053,8 @@
 1007051;101762;Achou que o terreno era ideal para construir uma pista de pouso.;0
 1007052;101763;29 alqueires.;0
 1007053;101763;15 alqueires.;0
-1007054;101763;6 alqueires.;0
-1007055;101763;2 alqueires.;1
+1007054;101763;6 alqueires.;1
+1007055;101763;2 alqueires.;0
 1007056;101764;Cr$ 80.000,00.;1
 1007057;101764;Cr$ 50.000,00.;0
 1007058;101764;Cr$ 100.000,00.;0
@@ -7105,8 +7105,8 @@
 1007103;101775;Clyde (Guilherme) Hankins.;0
 1007104;101776;Ser pastor em Sumaré ou ser missionário em Cuba.;0
 1007105;101776;Ser diretor da JUERP no Rio ou trabalhar com os índios em Oklahoma.;0
-1007106;101776;Trabalhar em Mato Grosso (convite de Hankins) ou ser diretor do Departamento de ER (convite da JUERP).;0
-1007107;101776;Voltar para o Texas para ser professor ou assumir a Igreja da Tijuca.;1
+1007106;101776;Trabalhar em Mato Grosso ou ser diretor do Departamento de ER.;1
+1007107;101776;Voltar para o Texas para ser professor ou assumir a Igreja da Tijuca.;0
 1007108;101777;"Ele queria aceitar o convite para trabalhar em Mato Grosso, por ser uma vida mais simples e um trabalho missionário ""mesmo"".";0
 1007109;101777;Ele desejava morar no Rio de Janeiro para aproveitar a vida agitada da capital.;1
 1007110;101777;Ele queria recusar ambos para voltar ao Seminário de Fort Worth.;0
@@ -7144,9 +7144,9 @@
 1007142;101785;"Ford 1948, apelidado de ""Estrela"".";0
 1007143;101785;"Ford ’29, apelidado de ""baratinha"".";0
 1007144;101786;Cr$ 80.000,00, durante a inauguração do Sítio.;0
-1007145;101786;Cr$ 20.000,00, durante a Convenção Batista Brasileira em Campos.;0
+1007145;101786;Cr$ 20.000,00, durante a Convenção Batista Brasileira em Campos.;1
 1007146;101786;Cr$ 70.000,00, na sede da JUERP no Rio.;0
-1007147;101786;Cr$ 10.000,00, em uma visita à Igreja de Itacuruçá.;1
+1007147;101786;Cr$ 10.000,00, em uma visita à Igreja de Itacuruçá.;0
 1007148;101787;Visitar igrejas no Rio e adjacências.;0
 1007149;101787;Carregar material para o Sítio do Sossego.;0
 1007150;101787;Transportar a família do missionário.;1
@@ -7176,8 +7176,8 @@
 1007174;101793;Dentro da camioneta Arabella, estacionada na Praça da Bandeira.;0
 1007175;101793;Em barracas montadas no quintal da União Feminina.;1
 1007176;101794;O missionário Alvin Hatton.;0
-1007177;101794;O pastor Waldomiro Motta.;1
-1007178;101794;O Sr. Levi, zelador da Casa Publicadora.;0
+1007177;101794;O pastor Waldomiro Motta.;0
+1007178;101794;O Sr. Levi, zelador da Casa Publicadora.;1
 1007179;101794;O Professor Moyses Silveira.;0
 1007180;101795;"Um trem elétrico moderno, apelidado de ""Carioca"".";0
 1007181;101795;"O antigo tipo ""Maria Fumaça"".";1
@@ -7203,9 +7203,9 @@
 1007201;101800;A maioria começou a leitura de um livro missionário antes de cair no sono.;1
 1007202;101800;Limpar as máquinas impressoras que foram levadas para o sítio.;0
 1007203;101800;Escrever cartas para os pais em Abilene.;0
-1007204;101801;Águias, Falcões e Condores.;1
+1007204;101801;Águias, Falcões e Condores.;0
 1007205;101801;Arautos, Escudeiros e Cavaleiros.;0
-1007206;101801;Tigres, Macacos e Leões.;0
+1007206;101801;Tigres, Macacos e Leões.;1
 1007207;101801;Texanos, Cariocas e Paulistas.;0
 1007208;101802;Futebol e Voleibol.;0
 1007209;101802;Baseball e Softball.;1
@@ -7216,9 +7216,9 @@
 1007214;101803;Em um poço dentro do córrego.;1
 1007215;101803;Em um grande tanque de lavar roupas.;0
 1007216;101804;Pr. Charles A. Powell, vindo do Texas.;0
-1007217;101804;Pr. Waldomiro Motta, pioneiro do trabalho missionário na Bolívia.;0
+1007217;101804;Pr. Waldomiro Motta;1
 1007218;101804;Pr. David Gomes, da Igreja da Tijuca.;0
-1007219;101804;Dr. T. B. Stover, diretor da JUERP.;1
+1007219;101804;Dr. T. B. Stover, diretor da JUERP.;0
 1007220;101805;Uma viagem de barco pelo Rio Dourado.;1
 1007221;101805;Andar a cavalo e realizar um culto ao redor da fogueira.;0
 1007222;101805;Uma oficina de conserto de máquinas de escrever.;0
@@ -7607,10 +7607,10 @@
 1007605;101901;Jardim.;0
 1007606;101901;Aquidauana.;1
 1007607;101901;Corumbá.;0
-1007608;101902;5 horas.;0
+1007608;101902;Quase 5 horas.;0
 1007609;101902;Quase 11 horas.;1
-1007610;101902;24 horas.;0
-1007611;101902;2 horas.;0
+1007610;101902;Quase 24 horas.;0
+1007611;101902;Quase 2 horas.;0
 1007612;101903;Em um hotel de luxo perto da fronteira.;0
 1007613;101903;Nos bancos da estação de trem.;1
 1007614;101903;Na casa do pastor local.;0
@@ -8556,7 +8556,7 @@
 1008554;102138;Pr. Samuel Mitt.;0
 1008555;102138;Alvin Hatton.;0
 1008556;102139;Sr. Josué Andrade.;0
-1008557;102139;Sr. Oliveira, da Embaixada M. C. White de Salvador/BA.;1
+1008557;102139;Sr. Oliveira;1
 1008558;102139;Sr. Samuel Rodrigues de Souza.;0
 1008559;102139;Dr. Edgar Hallock.;0
 1008560;102140;Embaixada W. C. Taylor da Igreja da Floresta.;0
